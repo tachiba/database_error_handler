@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["contact@takashi.me"]
   spec.summary       = %q{Handle database errors for ActiveRecord.}
   spec.description   = %q{}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/tachiba/database_error_handler"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
