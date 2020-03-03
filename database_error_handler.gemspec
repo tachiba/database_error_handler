@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "database_error_handler"
   spec.version       = DatabaseErrorHandler::VERSION
   spec.authors       = ["Takashi CHIBA"]
-  spec.email         = ["contact@takashi.me"]
+  spec.email         = ["contact@tachiba.jp"]
   spec.summary       = %q{Handle database errors for ActiveRecord.}
   spec.description   = %q{}
   spec.homepage      = "https://github.com/tachiba/database_error_handler"
